@@ -20,7 +20,7 @@ $link = mysqli_connect(
     '', 
     'Email');  
 
-  
+   
 
 $sql = "SELECT * FROM user"; 
 

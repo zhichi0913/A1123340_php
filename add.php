@@ -27,7 +27,7 @@ if ( copy($_FILES["file"]["tmp_name"],$FileName)){
         $_SESSION["FileName"]=$FileName;
         header("Location:send.php");
     }
-}else{
+}else{ 
     echo "Login failed, will send you back to login again";
     header("Refresh:3;url='login.php'");
 }
