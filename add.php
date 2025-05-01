@@ -33,5 +33,5 @@ if ( copy($_FILES["file"]["tmp_name"],$FileName)){
 }
 ?>
 
- 
+  
 </html>
