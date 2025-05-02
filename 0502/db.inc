@@ -1,6 +1,6 @@
 <?php
 $link = mysqli_connect( 
-    'localhost',  
+    'localhost',   
     'root',      
     '', 
     'charts'); 

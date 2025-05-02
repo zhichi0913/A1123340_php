@@ -1,6 +1,6 @@
 <html>
   <head>
-
+ 
 
   <?php
   require("db.inc");
